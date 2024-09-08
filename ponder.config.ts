@@ -17,13 +17,13 @@ export default createConfig({
       network: "mainnet",
       address: "0x00000000000C2E074eC69A0dFb2997BA6C7d2e1e",
       abi: EnsRegistryAbi,
-      startBlock: 9380380,
+      startBlock: 20703834,
     },
     ENSRegistryOld: {
       network: "mainnet",
       address: "0x314159265dd8dbb310642f98f50c066173c1259b",
       abi: EnsRegistryAbi,
-      startBlock: 3327417,
+      startBlock: 20703834,
     },
     Resolver: { network: "mainnet", abi: ResolverAbi, startBlock: 3327417 },
     // BaseRegistrar: {
