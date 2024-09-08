@@ -1,6 +1,6 @@
 import { ponder } from "@/generated";
 
-ponder.on("Resolver:AddrChanged", async ({ event, context }) => {});
+ponder.on("Resolver:AddrChanged", async ({ event, context }) => { });
 
 ponder.on(
   "Resolver:TextChanged(bytes32 indexed node, string indexed indexedKey, string key, string value)",
