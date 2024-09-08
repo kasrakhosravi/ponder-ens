@@ -25,7 +25,7 @@ export default createConfig({
       abi: EnsRegistryAbi,
       startBlock: 20703834,
     },
-    Resolver: { network: "mainnet", abi: ResolverAbi, startBlock: 3327417 },
+    Resolver: { network: "mainnet", abi: ResolverAbi, startBlock: 20703834 },
     // BaseRegistrar: {
     //   network: "mainnet",
     //   address: "0x57f1887a8BF19b14fC0dF6Fd9B2acc9Af147eA85",
